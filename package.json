@@ -1,6 +1,7 @@
 {
   "name": "react-gh-portfolio",
   "version": "0.1.0",
+  "homepage": "http://vanessabau.github.io/react-gh-portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
