@@ -1,7 +1,9 @@
+//Dependencies
 import React from "react";
 import NavBar from "./components/NavBar/NavBar";
 import Footer from "./components/Footer/Footer";
 
+//Build functional component to load basic application. You will find routes in the NavBar
 function App() {
   return (
     <>
@@ -11,4 +13,5 @@ function App() {
   );
 }
 
+//Export for use
 export default App;

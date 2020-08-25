@@ -1,6 +1,8 @@
+//Dependencies
 import React from "react";
 import "./portfolioCard.css";
 
+//Render portfolio cards with data from props.json
 function PortfolioCard(props) {
   return (
     <div>
@@ -34,10 +36,5 @@ function PortfolioCard(props) {
   );
 }
 
+//Export component
 export default PortfolioCard;
-
-{
-  /* <span onClick={() => props.removeFriend(props.id)} className="remove">
-        𝘅
-      </span> */
-}

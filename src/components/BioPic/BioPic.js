@@ -1,6 +1,8 @@
+//Dependencies
 import React from "react";
 import Vbio from "./vbio.jpeg";
 
+//Create functional component to render bio photo and photo border
 function BioPic() {
   return (
     <>
@@ -20,4 +22,5 @@ function BioPic() {
   );
 }
 
+//Export component
 export default BioPic;

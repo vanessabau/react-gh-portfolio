@@ -1,8 +1,10 @@
+//Dependencies
 import React, { Component } from "react";
 import PortfolioCard from "../PortfolioCard/PortfolioCard";
 import props from "../../props.json";
 import "./portfolio.css";
 
+//Create class component to pass portfolio information from props.json to the portfolio page and render the page. The cards will be rendered through the <PortfolioCard/> component
 class Portfolio extends Component {
   state = {
     props,
@@ -27,8 +29,6 @@ class Portfolio extends Component {
                 github={prop.github}
               />
             ))}
-
-            {/* <div className="right-column"></div> */}
           </div>
         </div>
       </section>
@@ -36,4 +36,5 @@ class Portfolio extends Component {
   }
 }
 
+//Export component
 export default Portfolio;

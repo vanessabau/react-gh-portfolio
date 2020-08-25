@@ -1,6 +1,8 @@
+//Dependencies
 import React from "react";
 import { Link, useLocation } from "react-router-dom";
 
+//Create functional component to render NavTabs which handle paths
 function NavTabs() {
   const location = useLocation();
 
@@ -39,4 +41,5 @@ function NavTabs() {
   );
 }
 
+//Export component
 export default NavTabs;

@@ -1,8 +1,8 @@
+//Dependencies
 import React from "react";
 
-function AboutText(props) {
-  console.log(props);
-
+//Create functional component to render the about-text
+function AboutText() {
   return (
     <>
       <div>

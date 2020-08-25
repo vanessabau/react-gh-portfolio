@@ -1,7 +1,9 @@
+//Dependencies
 import React, { Component } from "react";
 import ConnectBk from "./connectBk.png";
 import "./contact.css";
 
+//Create class component to render the contact page content
 class Contact extends Component {
   render() {
     return (
@@ -49,4 +51,5 @@ class Contact extends Component {
   }
 }
 
+//Export component
 export default Contact;

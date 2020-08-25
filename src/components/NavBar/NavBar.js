@@ -1,3 +1,4 @@
+//Dependencies
 import React from "react";
 import {
   BrowserRouter as Router,
@@ -8,6 +9,7 @@ import About from "../About/About";
 import Portfolio from "../Portfolio/Portfolio";
 import Contact from "../Contact/Contact";
 
+//Create functional component to render NavBar, use BrowseRouter to create links in NavBar
 function NavBar() {
   return (
     <>
@@ -22,5 +24,5 @@ function NavBar() {
     </>
   );
 }
-
+//Export
 export default NavBar;
