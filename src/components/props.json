@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Beyond Vacation",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/camping.png",
+    "href": "https://beyondvacation.herokuapp.com/",
+    "github": "https://github.com/vanessabau/projectTwo"
+  },
+  {
+    "id": 2,
+    "name": "Daily Forecast",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/public/images/weather.jpg",
+    "href": "https://vanessabau.github.io/WeatherApp/",
+    "github": "https://github.com/vanessabau/WeatherApp"
+  },
+  {
+    "id": 3,
+    "name": "Employee Directory",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/public/images/Employee.png",
+    "href": "https://dm-employeedirectory.herokuapp.com/",
+    "github": "https://github.com/vanessabau/EmployeeDirectory"
+  },
+  {
+    "id": 4,
+    "name": "Burger Chomper",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/public/images/hambureger-blue.jpg",
+    "href": "https://secret-badlands-96357.herokuapp.com/",
+    "github": "https://github.com/vanessabau/BurgerMaster"
+  },
+  {
+    "id": 5,
+    "name": "Javascript Quiz",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/public/images/Javascript-game.jpg",
+    "href": "https://vanessabau.github.io/Javascript-quiz/",
+    "github": "https://github.com/vanessabau/Javascript-quiz"
+  },
+  {
+    "id": 6,
+    "name": "Identity Coffees",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/public/images/coffee.jpg",
+    "href": "http://identitycoffees.com/",
+    "github": "http://identitycoffees.com/"
+  },
+  {
+    "id": 7,
+    "name": "Movie Streaming / Food Delivery",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/public/images/netflix-chill.jpg",
+    "href": "https://vanessabau.github.io/netflix-and-chilies/",
+    "github": "https://github.com/vanessabau/netflix-and-chilies"
+  },
+  {
+    "id": 8,
+    "name": "Work Day Scheduler",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/public/images/calendar1.jpg",
+    "href": "https://vanessabau.github.io/Day-planner/",
+    "github": "https://github.com/vanessabau/Day-planner"
+  },
+  {
+    "id": 9,
+    "name": "Letter Guessing Game",
+    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/word-game.jpg",
+    "href": "https://vanessabau.github.io/Psychic-Game/",
+    "github": "https://github.com/vanessabau/Psychic-Game"
+  }
+]
