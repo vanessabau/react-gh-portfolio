@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Beyond Vacation",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/camping.png",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/camping.png",
     "href": "https://beyondvacation.herokuapp.com/",
     "github": "https://github.com/vanessabau/projectTwo"
   },
@@ -15,57 +15,59 @@
   },
   {
     "id": 3,
-    "name": "Daily Forecast",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/weather.jpg",
-    "href": "https://vanessabau.github.io/WeatherApp/",
-    "github": "https://github.com/vanessabau/WeatherApp"
-  },
-  {
-    "id": 4,
     "name": "Employee Directory",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/Employee.png",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/Employee.png",
     "href": "https://dm-employeedirectory.herokuapp.com/",
     "github": "https://github.com/vanessabau/EmployeeDirectory"
   },
   {
+    "id": 4,
+    "name": "Daily Forecast",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/weather.jpg",
+    "href": "https://vanessabau.github.io/WeatherApp/",
+    "github": "https://github.com/vanessabau/WeatherApp"
+  },
+
+  {
     "id": 5,
     "name": "Burger Chomper",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/hambureger-blue.jpg",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/hambureger-blue.jpg",
     "href": "https://secret-badlands-96357.herokuapp.com/",
     "github": "https://github.com/vanessabau/BurgerMaster"
   },
   {
     "id": 6,
-    "name": "Javascript Quiz",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/Javascript-game.jpg",
-    "href": "https://vanessabau.github.io/Javascript-quiz/",
-    "github": "https://github.com/vanessabau/Javascript-quiz"
-  },
-  {
-    "id": 7,
     "name": "Identity Coffees",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/coffee.jpg",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/coffee.jpg",
     "href": "http://identitycoffees.com/",
     "github": "http://identitycoffees.com/"
   },
   {
+    "id": 7,
+    "name": "Work Day Scheduler",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/calendar1.jpg",
+    "href": "https://vanessabau.github.io/Day-planner/",
+    "github": "https://github.com/vanessabau/Day-planner"
+  },
+
+  {
     "id": 8,
-    "name": "Movie Streaming and Food Delivery",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/netflix-chill.jpg",
+    "name": "Movie Streaming and Food Delivery(in progress)",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/netflix-chill.jpg",
     "href": "https://vanessabau.github.io/netflix-and-chilies/",
     "github": "https://github.com/vanessabau/netflix-and-chilies"
   },
   {
     "id": 9,
-    "name": "Work Day Scheduler",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/calendar1.jpg",
-    "href": "https://vanessabau.github.io/Day-planner/",
-    "github": "https://github.com/vanessabau/Day-planner"
+    "name": "Javascript Quiz",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/Javascript-game.jpg",
+    "href": "https://vanessabau.github.io/Javascript-quiz/",
+    "github": "https://github.com/vanessabau/Javascript-quiz"
   },
   {
     "id": 10,
     "name": "Letter Guessing Game",
-    "image": "https://raw.githubusercontent.com/vanessabau/gh-ReactPortfolio/master/src/components/Images/word-game.jpg",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/word-game.jpg",
     "href": "https://vanessabau.github.io/Psychic-Game/",
     "github": "https://github.com/vanessabau/Psychic-Game"
   }
