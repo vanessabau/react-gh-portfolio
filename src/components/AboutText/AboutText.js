@@ -15,7 +15,7 @@ function AboutText() {
             <p id="preview-text">
               Can-do on steroids. <br />
               I love to build web applications. <br />
-              Let me build one for you.
+              Let me build one for you. Woop woop react-gh-portfolio
             </p>
 
             <div id="corner-br" className="corner"></div>
