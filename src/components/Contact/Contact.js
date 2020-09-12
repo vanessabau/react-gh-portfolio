@@ -19,11 +19,11 @@ class Contact extends Component {
             <div className="content-wrapper">
               <h3 id="reach-out">Reach Out</h3>
               <ul className="contact">
-                <li>
-                  <a href="../../vanessaBau-resume.pdf" target="_blank">
-                    Resume
-                  </a>
-                </li>
+//                 <li>
+//                   <a href="../../vanessaBau-resume.pdf" target="_blank">
+//                     Resume
+//                   </a>
+//                 </li>
                 <hr />
                 <li>
                   <a href="https://github.com/vanessabau">Github</a>
