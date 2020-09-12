@@ -20,7 +20,10 @@ class Contact extends Component {
               <h3 id="reach-out">Reach Out</h3>
               <ul className="contact">
                 <li>
-                  <a href="./assets/vanessa-resume.pdf" target="_blank">
+                  <a
+                    href="../../../public/vanessaBau-resume.pdf"
+                    target="_blank"
+                  >
                     Resume
                   </a>
                 </li>
@@ -36,8 +39,8 @@ class Contact extends Component {
                 </li>
                 <hr />
                 <li>
-                  <a href="mailto:vmrodrigues9@gmail.com" target="_blank">
-                    Email: vmrodrigues9@gmail.com
+                  <a href="mailto:vanessawebdev@gmail.com" target="_blank">
+                    Email: vanessawebdev9@gmail.com
                   </a>
                 </li>
                 <hr />
