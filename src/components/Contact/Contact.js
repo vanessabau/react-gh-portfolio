@@ -37,7 +37,7 @@ class Contact extends Component {
                 <hr />
                 <li>
                   <a href="mailto:vanessawebdev@gmail.com" target="_blank">
-                    Email: vanessawebdev9@gmail.com
+                    Email: vanessawebdev@gmail.com
                   </a>
                 </li>
                 <hr />
