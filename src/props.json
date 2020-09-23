@@ -9,7 +9,7 @@
   {
     "id": 2,
     "name": "Organize",
-    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/camping.png",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/src/components/Images/organize.png",
     "href": "https://organize-demo.herokuapp.com/",
     "github": "https://github.com/vanessabau/Organize2.0"
   },
