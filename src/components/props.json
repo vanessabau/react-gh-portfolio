@@ -54,7 +54,7 @@
   {
     "id": 8,
     "name": "Fitness Tracker",
-    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/hambureger-blue.jpg",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/fitnesstracker.png",
     "href": "https://fitness-tracker-mgo.herokuapp.com/?id=5f6c0b1d10e5130017ec480d",
     "github": "https://github.com/vanessabau/FitnessTracker"
   },
