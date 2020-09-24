@@ -37,21 +37,21 @@
   },
 
   {
-    "id": 5,
+    "id": 6,
     "name": "Employee Directory",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/Employee.png",
     "href": "https://dm-employeedirectory.herokuapp.com/",
     "github": "https://github.com/vanessabau/EmployeeDirectory"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Daily Forecast",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/weather.jpg",
     "href": "https://vanessabau.github.io/WeatherApp/",
     "github": "https://github.com/vanessabau/WeatherApp"
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Movie Streaming and Food Delivery(in progress)",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/netflix-chill.jpg",
     "href": "https://vanessabau.github.io/netflix-and-chilies/",
@@ -59,14 +59,14 @@
   },
 
   {
-    "id": 8,
+    "id": 9,
     "name": "Fitness Tracker",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/fitnesstracker.png",
     "href": "https://fitness-tracker-mgo.herokuapp.com/?id=5f6c0b1d10e5130017ec480d",
     "github": "https://github.com/vanessabau/FitnessTracker"
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Burger Chomper",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/hambureger-blue.jpg",
     "href": "https://secret-badlands-96357.herokuapp.com/",
@@ -74,7 +74,7 @@
   },
 
   {
-    "id": 10,
+    "id": 11,
     "name": "Work Day Scheduler",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/calendar1.jpg",
     "href": "https://vanessabau.github.io/Day-planner/",
@@ -82,14 +82,14 @@
   },
 
   {
-    "id": 11,
+    "id": 12,
     "name": "Javascript Quiz",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/Javascript-game.jpg",
     "href": "https://vanessabau.github.io/Javascript-quiz/",
     "github": "https://github.com/vanessabau/Javascript-quiz"
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Letter Guessing Game",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/word-game.jpg",
     "href": "https://vanessabau.github.io/Psychic-Game/",
