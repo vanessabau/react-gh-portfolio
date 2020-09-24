@@ -36,6 +36,13 @@ class Contact extends Component {
                 </li>
                 <hr />
                 <li>
+                  <a href="https://www.youtube.com/channel/UCJgiKl0JhapfuzCyylGHKbQ?view_as=subscriber">
+                    Check out application demos on YouTube
+                  </a>
+                </li>
+                <hr />
+
+                <li>
                   <a href="mailto:vanessawebdev@gmail.com" target="_blank">
                     Email: vanessawebdev@gmail.com
                   </a>
