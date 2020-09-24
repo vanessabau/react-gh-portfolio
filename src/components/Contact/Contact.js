@@ -37,7 +37,7 @@ class Contact extends Component {
                 <hr />
                 <li>
                   <a href="https://www.youtube.com/channel/UCJgiKl0JhapfuzCyylGHKbQ?view_as=subscriber">
-                    Check out application demos on YouTube
+                    Application demos on YouTube
                   </a>
                 </li>
                 <hr />
