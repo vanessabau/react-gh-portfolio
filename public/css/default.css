@@ -184,3 +184,24 @@ textarea {
     height: 350px;
   }
 }
+
+@media screen and (max-width: 414px) {
+  #navigation.nav.nav-tabs {
+    margin: 5px !important;
+  }
+  #welcome-wrapper.greeting-wrapper {
+    padding: 50px 10px 50px 10px;
+  }
+  #profile_pic {
+    height: 225px;
+    width: 225px;
+  }
+  #preview {
+    height: 228px;
+    width: 228px;
+  }
+  #preview-shadow {
+    height: 228px;
+    width: 228px;
+  }
+}

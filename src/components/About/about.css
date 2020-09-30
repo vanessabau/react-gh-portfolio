@@ -38,3 +38,15 @@
     padding-bottom: 50px;
   }
 }
+@media screen and (max-width: 414px) {
+  #about-intro-wrapper {
+    background-color: var(--secondaryColor);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 20em;
+    grid-template-areas:
+      "left-column"
+      "right-column";
+    padding-left: 50px;
+  }
+}
