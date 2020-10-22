@@ -1,6 +1,7 @@
 //Dependencies
 import React from "react";
 import Vbio from "./vbio.jpeg";
+import Vbio2 from "./vbio2.jpeg";
 
 //Create functional component to render bio photo and photo border
 function BioPic() {
@@ -9,7 +10,7 @@ function BioPic() {
       <div>
         <div id="preview-shadow">
           <div id="preview">
-            <img id="profile_pic" src={Vbio} alt="bio_pic" />
+            <img id="profile_pic" src={Vbio2} alt="bio_pic" />
             <div id="corner-tl" className="corner"></div>
             <div id="corner-tr" className="corner"></div>
 
