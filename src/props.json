@@ -27,8 +27,8 @@
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/coffee.jpg",
     "href": "https://identitycoffees.herokuapp.com/",
     "github": "https://github.com/vanessabau/identitycoffees"
-	},
-	{
+   },
+ {
     "id": 5,
     "name": "MERN App/ Booksearch",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/booksearch.png",
@@ -103,3 +103,5 @@
     "github": "https://github.com/vanessabau/Psychic-Game"
   }
 ]
+
+
