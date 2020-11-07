@@ -30,7 +30,7 @@ To use visit the deployed url https://vanessaro-portfolio.herokuapp.com/ . View 
 
 ### Technologies Used
 
-VS Code, ES6, React, React Router, Node.js, Express, Axios, MongDB, Atlas, Heroku, Git
+VS Code, ES6, React, React Router, Node.js, Express, Heroku, Git
 
 ### Contributors
 
