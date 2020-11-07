@@ -10,7 +10,7 @@ React Portfolio featuring web development work by Vanessa Bautista-Rodrigues
 
 ## DEVELOPER EMAIL: vanessawebdev@gmail.com
 
-# ![bookseach](https://raw.githubusercontent.com/vanessabau/booksearch/booksearch/booksearch%20-%201.png)
+# ![reactportfolio](https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/Vanessa-React-Portfolio.png)
 
 
 ## TABLE OF CONTENTS
@@ -25,7 +25,7 @@ React Portfolio featuring web development work by Vanessa Bautista-Rodrigues
 
 ### Useage
 
-To use visit the deployed url https://bk-search-react.herokuapp.com/saved . View contact information, current Resume, link to youtube channel, and examples of web development work.
+To use visit the deployed url https://vanessaro-portfolio.herokuapp.com/ . View contact information, current Resume, link to youtube channel, and examples of web development work.
 
 
 ### Technologies Used
