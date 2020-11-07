@@ -31,7 +31,7 @@
 	{
     "id": 5,
     "name": "MERN App/ Booksearch",
-    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/budget.png",
+    "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/booksearch.png",
     "href": "https://bk-search-react.herokuapp.com/",
     "github": "https://github.com/vanessabau/booksearch"
   },
