@@ -8,7 +8,7 @@
   },
   {
     "id": 2,
-    "name": "Organize",
+    "name": "MERN App/ Organize",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/src/components/Images/organize.png",
     "href": "https://organize-demo.herokuapp.com/",
     "github": "https://github.com/vanessabau/Organize2.0"
@@ -27,15 +27,14 @@
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/coffee.jpg",
     "href": "https://identitycoffees.herokuapp.com/",
     "github": "https://github.com/vanessabau/identitycoffees"
-  },
-  {
+	},
+	{
     "id": 5,
-    "name": "Budget Tracker (PWA)",
+    "name": "MERN App/ Booksearch",
     "image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/budget.png",
-    "href": "https://budgettrackpwa.herokuapp.com/",
-    "github": "https://github.com/vanessabau/budgetTrackerPWA"
+    "href": "https://bk-search-react.herokuapp.com/",
+    "github": "https://github.com/vanessabau/booksearch"
   },
-
   {
     "id": 6,
     "name": "Employee Directory",
