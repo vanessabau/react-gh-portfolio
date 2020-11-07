@@ -16,7 +16,7 @@ class About extends Component {
         <section className="s1">
           <div className="main-container">
             <div className="greeting-wrapper" id="welcome-wrapper">
-              <h1>Welcome, I'm Vanessa Ro</h1>
+              <h1>Welcome, I'm Vanessa Rodrigues-Bautista</h1>
             </div>
             <div className="intro-wrapper" id="about-intro-wrapper">
               <div className="left-column">
