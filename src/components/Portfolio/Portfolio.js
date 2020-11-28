@@ -15,16 +15,18 @@ class Portfolio extends Component {
       <section className="s1">
         <div className="main-container">
           <div className="greeting-wrapper">
-            <h1>Portfolio</h1>
+            <h1 id="portfolio-title">Portfolio</h1>
           </div>
 
-          <div className="post-wrapper">
+          <div className="post-wrapper container">
             {this.state.props.map((prop) => (
               <PortfolioCard
                 id={prop.id}
                 key={prop.id}
                 name={prop.name}
                 image={prop.image}
+                description={prop.description}
+                tech={prop.tech}
                 href={prop.href}
                 github={prop.github}
               />
