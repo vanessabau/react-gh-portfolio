@@ -116,7 +116,7 @@
     "id": 13,
     "name": "Javascript Quiz",
 		"image": "https://raw.githubusercontent.com/vanessabau/react-gh-portfolio/master/public/images/Javascript-game.jpg",
-		"description": "Mulitple choice Javascript quiz",
+		"description": "Multiple choice Javascript quiz",
 		"tech": "HTML, CSS, Javascript",
     "href": "https://vanessabau.github.io/Javascript-quiz/",
     "github": "https://github.com/vanessabau/Javascript-quiz"
