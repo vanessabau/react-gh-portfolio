@@ -67,20 +67,22 @@ class About extends Component {
                 <div id="skills">
                   <ul>
                     <li>HTML</li>
-                    <li>CSS3</li>
+                    <li>CSS</li>
+                    <li>ES6</li>
                     <li>JavaScript</li>
                     <li>Bootstrap</li>
-                    <li>Handlebars</li>
+                    <li>Node</li>
                     <li>Express</li>
-                    <li>React</li>
+                    <li>Git</li>
                   </ul>
                   <ul>
-                    <li>Node.js</li>
+                    <li>React</li>
+                    <li>React-Testing-Library</li>
+                    <li>Jest</li>
+                    <li>React Native</li>
                     <li>Sequelize/MySQL</li>
-                    <li>Database Theory</li>
                     <li>MongoDB/Mongoose</li>
                     <li>Progressive Web Apps</li>
-                    <li>Git</li>
                     <li>Github/Heroku</li>
                   </ul>
                 </div>
