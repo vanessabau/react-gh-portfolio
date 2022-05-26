@@ -53,7 +53,7 @@ class About extends Component {
                 <hr />
                 <h4>FULL STACK AWESOMENESS</h4>
                 <p>Let's get this party started</p>
-                <a href="../../vanessaBau-resume.pdf" target="_blank">
+                <a href="../../vanessaBau-resume4.pdf" target="_blank">
                   View Resume
                 </a>
                 <p>

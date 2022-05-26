@@ -20,7 +20,7 @@ class Contact extends Component {
               <h3 id="reach-out">Reach Out</h3>
               <ul className="contact">
                 <li>
-                  <a href="../../vanessaBau-resume.pdf" target="_blank">
+                  <a href="../../vanessaBau-resume4.pdf" target="_blank">
                     Resume
                   </a>
                 </li>
