@@ -16,7 +16,7 @@ class About extends Component {
         <section className="s1">
           <div className="main-container">
             <div className="greeting-wrapper" id="welcome-wrapper">
-              <h1>Welcome, I'm Vanessa Rodrigues-Bautista</h1>
+              <h1>Welcome, I'm Vanessa Bautista</h1>
             </div>
             <div className="intro-wrapper" id="about-intro-wrapper">
               <div className="left-column">
@@ -104,7 +104,7 @@ class About extends Component {
                   target="_blank"
                   href="https://www.youtube.com/channel/UCJgiKl0JhapfuzCyylGHKbQ?view_as=subscriber"
                 >
-                  YouTube: Vanessa Bautista-Rodrigues
+                  YouTube: Vanessa Bautista
                 </a>
               </div>
             </div>
